@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @starDust-ksX aka Kartik
-- 👀 I’m interested in Python & AI
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on different projects on AI
+- 👋 Hi, I’m @starDust-ksX aka Kartik Sinha
+- 👀 I’m interested in AI, ML, Data Science, AR 
+- 🌱 I’m currently learning Python & C++
+- 💞️ I’m looking to collaborate on different projects on Data Science
 - 📫 How to reach me : @kartik_sinha68 (My Twitter, Just DM me)
 
 <!---
