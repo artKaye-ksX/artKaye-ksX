@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @starDust-ksX and Name is, Kartik Sinha
+- 👋 Hi, I’m @starDust-ksX and people irl call me, Kartik Sinha
   
 - 👀 I’m interested in AI, ML, Data Science, AR and WebDev
 
 - 🌱 I’m currently learning Python, C++ and ThreeJS
 
-- 💞️ I’m looking to learn and collaborate from and with people on different project :D
+- 💞️ I’m looking to learn and collaborate from and with people on different project
 
 - 📫 You can reach me through my email at kartik614m@gmail.com
 
