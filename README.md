@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @starDust-ksX aka Kartik Sinha
+- 👋 Hi, I’m @starDust-ksX and Name is, Kartik Sinha
 - 👀 I’m interested in AI, ML, Data Science, AR and WebDev 
 - 🌱 I’m currently learning Python, C++ and ThreeJS
 - 💞️ I’m looking to learn and collaborate from and with people on different project :D
-- 📫 How to reach me : @kartik_sinha68 (My Twitter, Just DM me)
+- 📫 You can reach me through my email at kartik614m@gmail.com
 
 <!---
 starDust-ksX/starDust-ksX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
