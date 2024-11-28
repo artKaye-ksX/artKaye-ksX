@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @artKaye-ksX and people irl call me, Kartik Sinha
+- 👋 Hi, I’m @artKaye-ksX and people irl call me, Kartik or Art 
   
 - 👀 I’m interested in AI, ML, Data Science, AR and Cyberseurity
 
@@ -9,6 +9,6 @@
 - 📫 You can reach me through my email at kartik614m@gmail.com
 
 <!---
-starDust-ksX/starDust-ksX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+artKaye-ksX/artKaye-ksX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
