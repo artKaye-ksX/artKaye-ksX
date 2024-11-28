@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @starDust-ksX and people irl call me, Kartik Sinha
+- 👋 Hi, I’m @artKaye-ksX and people irl call me, Kartik Sinha
   
-- 👀 I’m interested in AI, ML, Data Science, AR and WebDev
+- 👀 I’m interested in AI, ML, Data Science, AR and Cyberseurity
 
 - 🌱 I’m currently learning Python, C++ and ThreeJS
 
